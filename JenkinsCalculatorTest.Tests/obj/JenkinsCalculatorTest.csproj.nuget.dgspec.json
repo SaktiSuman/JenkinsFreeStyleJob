@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculatorTest.Tests\\JenkinsCalculatorTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculatorTest.Tests\\JenkinsCalculatorTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculatorTest.Tests\\JenkinsCalculatorTest.csproj",
+        "projectName": "JenkinsCalculatorTest",
+        "projectPath": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculatorTest.Tests\\JenkinsCalculatorTest.csproj",
+        "packagesPath": "C:\\Users\\saktitripathy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculatorTest.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saktitripathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\JenkinsCalculator.csproj": {
+                "projectPath": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\JenkinsCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\JenkinsCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\JenkinsCalculator.csproj",
+        "projectName": "JenkinsCalculator",
+        "projectPath": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\JenkinsCalculator.csproj",
+        "packagesPath": "C:\\Users\\saktitripathy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saktitripathy\\Source\\Repos\\JenkinsCalculator\\JenkinsCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saktitripathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
